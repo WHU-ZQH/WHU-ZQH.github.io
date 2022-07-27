@@ -21,9 +21,9 @@ Double-Bachelor in College of Computer Science and Technology and School of Mech
 ### Experience
 
 - **Chang Guang Satellite**, May 2022 -- Aug. 2022  
-Research on Remote Sensing, building Change Detection in Data Center I Laboratory.
+Research on _Remote Sensing, building Change Detection_ in Data Center I Laboratory.
 - **JD Explore Academy**, Feb. 2022 -- Apr. 2022  
-Research on Aspect-based Sentiment Analysis in NLP group, advised by [Liang Ding](http://liamding.cc/).
+Research on _Aspect-based Sentiment Analysis_ in NLP group, advised by [Liang Ding](http://liamding.cc/).
 
 
 # Research
