@@ -42,6 +42,7 @@ I am generally interested in natural language processing (NLP) and deep learning
 # Publications
 
 ---
+<font size=3 color=gray>* denotes a corresponding author.</font>  
 **Learning with Partial Multi-labeled Data by Leveraging Low-rank Constraint and Decomposition**  
 Ying Wang, Yuanyuan Guan, Ximing Li*, **Bing Wang**  
 _Applied Intelligence_, 2022
@@ -55,7 +56,7 @@ _Applied Intelligence_, 2022
 **[11/2021] [Weakly Supervised Prototype Topic Model with Discriminative Seed Words: Modifying the Category Prior by Self-exploring Supervised Signals](https://arxiv.org/pdf/2112.03009.pdf)**  
 **Bing Wang**, Yue Wang, Ximing Li*, Jihong Ouyang 
 
-<font size=2 color=gray>* denotes a corresponding author.</font>
+
 
 # Service
 
