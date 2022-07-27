@@ -9,20 +9,20 @@ redirect_from:
 ---
 
 <!-- ## About Me -->
-I am a master student in College of Computer Science and Technology, Jilin University (JLU), and advised by [Ximing Li](https://scholar.google.com/citations?hl=zh-CN&user=2WQ--c4AAAAJ).
+I am a master student in college of computer science and technology, Jilin university (JLU), and advised by [Ximing Li](https://scholar.google.com/citations?hl=zh-CN&user=2WQ--c4AAAAJ).
 
 ### Educations
 
-- **Jilin University**, 2020 -- 2023  
+- **Jilin University**, _2020 -- 2023_  
 Master in College of Computer Science and Technology.
-- **Jilin University**, 2016 -- 2020  
+- **Jilin University**, _2016 -- 2020_  
 Double-Bachelor in College of Computer Science and Technology and School of Mechanical and Aerospace Engineering.
 
 ### Experience
 
-- **Chang Guang Satellite**, May 2022 -- Aug. 2022  
+- **Chang Guang Satellite**, _May 2022 -- Aug. 2022_  
 Research on _Remote Sensing, building Change Detection_ in Data Center I Laboratory.
-- **JD Explore Academy**, Feb. 2022 -- Apr. 2022  
+- **JD Explore Academy**, _Feb. 2022 -- Apr. 2022_  
 Research on _Aspect-based Sentiment Analysis_ in NLP group, advised by [Liang Ding](http://liamding.cc/).
 
 
@@ -43,17 +43,19 @@ I am generally interested in natural language processing (NLP) and deep learning
 
 ---
 **Learning with Partial Multi-labeled Data by Leveraging Low-rank Constraint and Decomposition**  
-Ying Wang, Yuanyuan Guan, Ximing Li, **Bing Wang**  
+Ying Wang, Yuanyuan Guan, Ximing Li*, **Bing Wang**  
 _Applied Intelligence_, 2022
 
 # Recent Preprints
 
 ---
 **[05/2022] [A Contrastive Cross-channel Data Augmentation Framework for Aspect-based Sentiment Analysis](https://arxiv.org/pdf/2204.07832.pdf)**  
-**Bing Wang**, Liang Ding, Qihuang Zhong, Ximing Li, Dacheng Tao
+**Bing Wang**, Liang Ding*, Qihuang Zhong, Ximing Li, Dacheng Tao
 
 **[11/2021] [Weakly Supervised Prototype Topic Model with Discriminative Seed Words: Modifying the Category Prior by Self-exploring Supervised Signals](https://arxiv.org/pdf/2112.03009.pdf)**  
-**Bing Wang**, Yue Wang, Ximing Li, Jihong Ouyang 
+**Bing Wang**, Yue Wang, Ximing Li*, Jihong Ouyang 
+
+<font size=2 color=gray>* denotes a corresponding author.</font>
 
 # Service
 
