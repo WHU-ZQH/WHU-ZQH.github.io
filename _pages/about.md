@@ -27,21 +27,28 @@ Research on Aspect-based Sentiment Analysis in NLP group, advised by [Liang Ding
 
 
 # Research
-        
+
+---
 I am generally interested in natural language processing (NLP) and deep learning. Current interests include: 
 - data-centric NLP
 - natural language understanding
 - multi-label learning
 
 # News!
+
+---
 [04/2022] 'Graduated' from JD explore academy.
 
 # Publications
+
+---
 **Learning with Partial Multi-labeled Data by Leveraging Low-rank Constraint and Decomposition**  
 Ying Wang, Yuanyuan Guan, Ximing Li, **Bing Wang**  
 _Applied Intelligence_, 2022
 
 # Recent Preprints
+
+---
 **[05/2022] [A Contrastive Cross-channel Data Augmentation Framework for Aspect-based Sentiment Analysis](https://arxiv.org/pdf/2204.07832.pdf)**  
 **Bing Wang**, Liang Ding, Qihuang Zhong, Ximing Li, Dacheng Tao
 
@@ -49,7 +56,11 @@ _Applied Intelligence_, 2022
 **Bing Wang**, Yue Wang, Ximing Li, Jihong Ouyang 
 
 # Service
+
+---
 None
 
 # Awards
+
+---
 None
