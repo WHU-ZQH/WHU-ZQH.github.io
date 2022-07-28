@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- ## About Me -->
-I am a master student in college of computer science and technology, Jilin university (JLU), and advised by [Ximing Li](https://scholar.google.com/citations?hl=zh-CN&user=2WQ--c4AAAAJ).
+I am a master student (third year) in college of computer science and technology, Jilin university (JLU), and advised by [Ximing Li](https://scholar.google.com/citations?hl=zh-CN&user=2WQ--c4AAAAJ).
 
 ### Educations
 
@@ -26,13 +26,19 @@ Research on _Remote Sensing, building Change Detection_ in Data Center I Laborat
 Research on _Aspect-based Sentiment Analysis_ in NLP group, advised by [Liang Ding](http://liamding.cc/).
 
 
-# Research
+# Research Interests
 
 ---
-I am generally interested in natural language processing (NLP) and deep learning. Current interests include: 
+I am generally interested in natural language processing (NLP) and machine learning (ML). Current interests include: 
+
+#### NLP applications
 - data-centric NLP
-- natural language understanding
+- natural language understanding (classification, information extraction)
 - multi-label learning
+#### general ML & NLP
+- adversarial robust ML
+- graph neural networks (GNNs)
+- knowledge-guided NLP
 
 # News!
 
