@@ -65,7 +65,7 @@ _Applied Intelligence_, 2022
 
 
 
-# Service
+# 🧚‍♂️Service
 
 ---
 None
@@ -74,3 +74,8 @@ None
 
 ---
 None
+
+# Interests
+
+---
+I'm interested in KPOP, such as _Red velvet, Twice, Aespa, ITZY, NMIXX, from_is9, yooa, sakura_...
