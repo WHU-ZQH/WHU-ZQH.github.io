@@ -34,7 +34,7 @@ I am generally interested in natural language processing (NLP) and machine learn
 ### NLP applications
 - data-centric NLP
 - natural language understanding (classification, information extraction)
-- multi-label learning  
+- multi-label learning
 
 ### general ML & NLP
 - adversarial robust ML
