@@ -41,7 +41,7 @@ I am generally interested in natural language processing (NLP) and machine learn
 - graph neural networks (GNNs)
 - knowledge-guided NLP
 
-# News!
+# News! 📣
 
 ---
 [04/2022] 'Graduated' from JD explore academy.
@@ -65,17 +65,17 @@ _Applied Intelligence_, 2022
 
 
 
-# 🧚‍♂️Service
+# Service 🧚‍♂️
 
 ---
 None
 
-# Awards
+# Awards 🎁
 
 ---
 None
 
-# Interests
+# Interests 👯‍♀️
 
 ---
 I'm interested in KPOP, such as _Red velvet, Twice, Aespa, ITZY, NMIXX, from_is9, yooa, sakura_...
