@@ -70,7 +70,7 @@ _Applied Intelligence_, 2022
 ---
 None
 
-# Awards 🎁
+# Awards 🏆
 
 ---
 None
