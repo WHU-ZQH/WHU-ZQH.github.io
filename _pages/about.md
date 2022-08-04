@@ -38,6 +38,7 @@ I am generally interested in natural language processing (NLP) and machine learn
 
 ### general ML & NLP
 - adversarial robust ML
+- unsupervised (representation) learning
 - graph neural networks (GNNs)
 - knowledge-guided NLP
 
