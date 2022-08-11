@@ -45,7 +45,7 @@ I am generally interested in natural language processing (NLP) and machine learn
 # News! 📣
 
 ---
-[08/2022] Finish my internship in Chang Guang Satellite
+[08/2022] Finish my internship in Chang Guang Satellite.  
 [04/2022] 'Graduated' from JD explore academy.
 
 
