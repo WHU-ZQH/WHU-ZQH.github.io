@@ -45,15 +45,9 @@ I am generally interested in natural language processing (NLP) and machine learn
 # News! 📣
 
 ---
+[08/2022] Finish my internship in Chang Guang Satellite
 [04/2022] 'Graduated' from JD explore academy.
 
-# Publications
-
----
-<font size=3 color=gray>* denotes a corresponding author.</font>  
-**Learning with Partial Multi-labeled Data by Leveraging Low-rank Constraint and Decomposition**  
-Ying Wang, Yuanyuan Guan, Ximing Li*, **Bing Wang**  
-_Applied Intelligence_, 2022
 
 # Recent Preprints
 
@@ -64,6 +58,14 @@ _Applied Intelligence_, 2022
 **[11/2021] [Weakly Supervised Prototype Topic Model with Discriminative Seed Words: Modifying the Category Prior by Self-exploring Supervised Signals](https://arxiv.org/pdf/2112.03009.pdf)**  
 **Bing Wang**, Yue Wang, Ximing Li*, Jihong Ouyang 
 
+
+# Publications
+
+---
+<font size=3 color=gray>* denotes a corresponding author.</font>  
+**Learning with Partial Multi-labeled Data by Leveraging Low-rank Constraint and Decomposition**  
+Ying Wang, Yuanyuan Guan, **Bing Wang** , Ximing Li*  
+_Applied Intelligence_, 2022
 
 
 # Service 🧚‍♂️
@@ -79,4 +81,4 @@ None
 # Interests 👯‍♀️
 
 ---
-I'm interested in KPOP, such as _Red velvet, Twice, Aespa, ITZY, NMIXX, from_is9, yooa, sakura_...
+I'm interested in KPOP, such as _Red velvet, Twice, Aespa, ITZY, NMIXX, fromis9, yooa, sakura_...
