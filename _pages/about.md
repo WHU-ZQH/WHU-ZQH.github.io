@@ -45,6 +45,7 @@ I am generally interested in natural language processing (NLP) and machine learn
 # News! 📣
 
 ---
+[08/2022] A full paper is accepted by [COLING 2022](https://coling2022.org/).
 [08/2022] Finish my internship in Chang Guang Satellite.  
 [04/2022] 'Graduated' from JD explore academy.
 
@@ -52,6 +53,7 @@ I am generally interested in natural language processing (NLP) and machine learn
 # Recent Preprints
 
 ---
+<font size=3 color=gray>* denotes a corresponding author.</font>  
 **[05/2022] [A Contrastive Cross-channel Data Augmentation Framework for Aspect-based Sentiment Analysis](https://arxiv.org/pdf/2204.07832.pdf)**  
 **Bing Wang**, Liang Ding*, Qihuang Zhong, Ximing Li, Dacheng Tao
 
@@ -59,10 +61,13 @@ I am generally interested in natural language processing (NLP) and machine learn
 **Bing Wang**, Yue Wang, Ximing Li*, Jihong Ouyang 
 
 
-# Publications
+# Selected Publications
 
 ---
-<font size=3 color=gray>* denotes a corresponding author.</font>  
+**A Contrastive Cross-channel Data Augmentation Framework for Aspect-based Sentiment Analysis**  
+**Bing Wang**, Liang Ding*, Qihuang Zhong, Ximing Li, Dacheng Tao
+_COLING 2022_
+
 **Learning with Partial Multi-labeled Data by Leveraging Low-rank Constraint and Decomposition**  
 Ying Wang, Yuanyuan Guan, **Bing Wang** , Ximing Li*  
 _Applied Intelligence_, 2022
