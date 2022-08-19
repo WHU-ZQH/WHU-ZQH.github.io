@@ -51,11 +51,11 @@ I am generally interested in natural language processing (NLP) and machine learn
 
 
 # Recent Preprints
-
----
 <font size=3 color=gray>* denotes a corresponding author.</font>  
+---
+
 **[05/2022] [A Contrastive Cross-channel Data Augmentation Framework for Aspect-based Sentiment Analysis](https://arxiv.org/pdf/2204.07832.pdf)**  
-**Bing Wang**, Liang Ding*, Qihuang Zhong, Ximing Li, Dacheng Tao
+**Bing Wang**, Liang Ding*, Qihuang Zhong, Ximing Li*, Dacheng Tao
 
 **[11/2021] [Weakly Supervised Prototype Topic Model with Discriminative Seed Words: Modifying the Category Prior by Self-exploring Supervised Signals](https://arxiv.org/pdf/2112.03009.pdf)**  
 **Bing Wang**, Yue Wang, Ximing Li*, Jihong Ouyang 
@@ -65,8 +65,8 @@ I am generally interested in natural language processing (NLP) and machine learn
 
 ---
 **A Contrastive Cross-channel Data Augmentation Framework for Aspect-based Sentiment Analysis**  
-**Bing Wang**, Liang Ding*, Qihuang Zhong, Ximing Li, Dacheng Tao  
-_COLING 2022_
+**Bing Wang**, Liang Ding*, Qihuang Zhong, Ximing Li*, Dacheng Tao  
+_COLING 2022_, beyond my internship in JDEA
 
 **Learning with Partial Multi-labeled Data by Leveraging Low-rank Constraint and Decomposition**  
 Ying Wang, Yuanyuan Guan, **Bing Wang** , Ximing Li*  
@@ -86,4 +86,4 @@ None
 # Interests 👯‍♀️
 
 ---
-I'm interested in KPOP, such as _Red velvet, Twice, Aespa, ITZY, NMIXX, fromis9, yooa, sakura_...
+I'm interested in KPOP, such as _Red velvet, Twice, Aespa, ITZY, NMIXX, fromis9_.
