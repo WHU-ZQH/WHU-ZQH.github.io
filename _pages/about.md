@@ -73,7 +73,7 @@ Ying Wang, Yuanyuan Guan, **Bing Wang** , Ximing Li*
 _Applied Intelligence_, 2022
 
 
-# Service 🧚‍♂️
+# Service
 
 ---
 None
@@ -83,7 +83,7 @@ None
 ---
 None
 
-# Interests 👯‍♀️
+# Interests
 
 ---
 I'm interested in KPOP, such as _Red velvet, Twice, Aespa, ITZY, NMIXX, fromis9_.
