@@ -32,15 +32,20 @@ Research on _Aspect-based Sentiment Analysis_ in NLP group, advised by [Liang Di
 I am generally interested in natural language processing (NLP) and machine learning (ML). Current interests include: 
 
 ### NLP applications
-- data-centric NLP
+- aspect-based sentiment analysis
+- relation extraction and named entity recognition
+
+### NLP tasks
+- low-resource / data-centric / data-efficient NLP
 - natural language understanding (classification, information extraction)
 - multi-label learning
+- cross-domain NLP
 
 ### general ML & NLP
 - adversarial robust ML
 - unsupervised (representation) learning
+- imperfect information ML
 - graph neural networks (GNNs)
-- knowledge-guided NLP
 
 # News! 📣
 
