@@ -75,7 +75,7 @@ I am generally interested in natural language processing (NLP) and machine learn
 
 **Learning with Partial Multi-labeled Data by Leveraging Low-rank Constraint and Decomposition**  
 Ying Wang, Yuanyuan Guan, **Bing Wang** , Ximing Li*  
-![](https://img.shields.io/badge/CCF-C-red) _Applied Intelligence_, 2022
+![](https://img.shields.io/badge/CCF-C-red) ![](https://img.shields.io/badge/SCI-III-blue) _Applied Intelligence_, 2022
 
 
 # Service
