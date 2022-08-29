@@ -71,11 +71,11 @@ I am generally interested in natural language processing (NLP) and machine learn
 ---
 **A Contrastive Cross-channel Data Augmentation Framework for Aspect-based Sentiment Analysis**  
 **Bing Wang**, Liang Ding*, Qihuang Zhong, Ximing Li*, Dacheng Tao  
-_COLING 2022_, beyond my internship in JDEA
+_COLING 2022_ ![](https://img.shields.io/badge/CCF-B-red), beyond my internship in JDEA
 
 **Learning with Partial Multi-labeled Data by Leveraging Low-rank Constraint and Decomposition**  
 Ying Wang, Yuanyuan Guan, **Bing Wang** , Ximing Li*  
-_Applied Intelligence_, 2022
+_Applied Intelligence_ ![](https://img.shields.io/badge/CCF-C-red), 2022
 
 
 # Service
