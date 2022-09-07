@@ -92,3 +92,5 @@ None
 
 ---
 I'm interested in KPOP, such as _Red velvet, Twice, Aespa, ITZY, NMIXX, fromis9_.
+
+<a href="http://www.clustrmaps.com/map/Wangbing1416.github.io" title="Visit tracker for Wangbing1416.github.io"><img src="//www.clustrmaps.com/map_v2.png?d=tpG-Ml1ryBVkymWtuCAtsRzcfXYryOLHhehVqGLjocM" /></a>
