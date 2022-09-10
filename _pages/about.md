@@ -41,10 +41,8 @@ I am generally interested in natural language processing (NLP) and machine learn
 - cross-domain NLP
 
 ### general ML & NLP
-- multi-label learning
-- adversarial robust ML
+- tranfer learning
 - unsupervised (representation) learning
-- imperfect information ML
 - graph neural networks (GNNs)
 
 # News! 📣
