@@ -36,10 +36,12 @@ I am generally interested in natural language processing (NLP) and machine learn
 - aspect-based sentiment analysis
 - relation extraction and named entity recognition
 - fake news detection / fact-check
+
 ### Natural Language Understanding
 - low-resource / data-centric / data-efficient NLP
 - domain adaptation (unsupervised, generalization, source-free, _etc_) in NLP
 - pre-trained language model knowledge transfer
+
 ### general Machine Learning
 - tranfer learning
 - unsupervised learning
