@@ -9,10 +9,12 @@ redirect_from:
 ---
 
 <!-- ## About Me -->
-I am a master student (third year) in college of computer science and technology, Jilin university (JLU), and advised by [Ximing Li](https://scholar.google.com/citations?hl=zh-CN&user=2WQ--c4AAAAJ).
+I am a Ph.D. student in college of computer science and technology, Jilin university (JLU), and advised by [Ximing Li](https://scholar.google.com/citations?hl=zh-CN&user=2WQ--c4AAAAJ).
 
 ### Educations
 
+- **Jilin University**, _2023 -- Present_  
+Ph.D. Candidate in College of Computer Science and Technology.
 - **Jilin University**, _2020 -- 2023_  
 Master in College of Computer Science and Technology.
 - **Jilin University**, _2016 -- 2020_  
