@@ -51,7 +51,7 @@ I am generally interested in natural language processing (NLP) and machine learn
 # News! 📣
 
 ---
-[10/2022] one co-authored manuscript has been accepted by [Knowledge-Based System](https://www.sciencedirect.com/journal/knowledge-based-systems).
+[10/2022] one co-authored manuscript has been accepted by [Knowledge-Based System](https://www.sciencedirect.com/journal/knowledge-based-systems).  
 [08/2022] a full paper is accepted by [COLING 2022](https://coling2022.org/).  
 [08/2022] finish my internship in Chang Guang Satellite.  
 [04/2022] 'graduated' from JD explore academy.
