@@ -51,9 +51,10 @@ I am generally interested in natural language processing (NLP) and machine learn
 # News! 📣
 
 ---
-[08/2022] A full paper is accepted by [COLING 2022](https://coling2022.org/).  
-[08/2022] Finish my internship in Chang Guang Satellite.  
-[04/2022] 'Graduated' from JD explore academy.
+[10/2022] one co-authored manuscript has been accepted by [Knowledge-Based System](https://www.sciencedirect.com/journal/knowledge-based-systems).
+[08/2022] a full paper is accepted by [COLING 2022](https://coling2022.org/).  
+[08/2022] finish my internship in Chang Guang Satellite.  
+[04/2022] 'graduated' from JD explore academy.
 
 
 # Recent Preprints
@@ -70,6 +71,10 @@ I am generally interested in natural language processing (NLP) and machine learn
 # Selected Publications
 
 ---
+**Aspect-based Sentiment Analysis with Attention-assisted Graph and Variational Sentence Representation**  
+Shi Feng, **Bing Wang**, Zhiyao Yang, Jihong Ouyang*  
+![](https://img.shields.io/badge/CCF-C-red) ![](https://img.shields.io/badge/SCI-I-blue) _Knowledge-Based System_, 2022
+
 **A Contrastive Cross-channel Data Augmentation Framework for Aspect-based Sentiment Analysis**  
 **Bing Wang**, Liang Ding*, Qihuang Zhong, Ximing Li, Dacheng Tao  
 ![](https://img.shields.io/badge/CCF-B-red) _COLING 2022_, during my internship in JDEA
