@@ -10,6 +10,7 @@ redirect_from:
 
 <!-- ## About Me -->
 I am a Ph.D. student in college of computer science and technology, Jilin university (JLU), and advised by [Ximing Li](https://scholar.google.com/citations?hl=zh-CN&user=2WQ--c4AAAAJ).
+If you have some questions, or you are intereted in working with me, you can drop an [e-mail](wangbing1416@gmail.com) (in English or Chinese) to me!
 
 ### Educations
 
