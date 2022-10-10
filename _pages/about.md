@@ -78,7 +78,7 @@ Shi Feng, **Bing Wang**, Zhiyao Yang, Jihong Ouyang*
 
 **A Contrastive Cross-channel Data Augmentation Framework for Aspect-based Sentiment Analysis**  
 **Bing Wang**, Liang Ding*, Qihuang Zhong, Ximing Li, Dacheng Tao  
-![](https://img.shields.io/badge/CCF-B-red) _COLING 2022_, during my internship in JDEA
+![](https://img.shields.io/badge/CCF-B-red) _International Conference on Computational Linguistics (COLING 2022)_, during my internship in JDEA
 
 **Learning with Partial Multi-labeled Data by Leveraging Low-rank Constraint and Decomposition**  
 Ying Wang, Yuanyuan Guan, **Bing Wang** , Ximing Li*  
