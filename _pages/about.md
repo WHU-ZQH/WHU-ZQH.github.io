@@ -76,9 +76,9 @@ I am generally interested in natural language processing (NLP) and machine learn
 Shi Feng, **Bing Wang**, Zhiyao Yang, Jihong Ouyang*  
 ![](https://img.shields.io/badge/CCF-C-red) ![](https://img.shields.io/badge/SCI-I-blue) _Knowledge-Based System_, 2022
 
-**A Contrastive Cross-channel Data Augmentation Framework for Aspect-based Sentiment Analysis**  
+**[A Contrastive Cross-channel Data Augmentation Framework for Aspect-based Sentiment Analysis](https://aclanthology.org/2022.coling-1.581.pdf)**  
 **Bing Wang**, Liang Ding*, Qihuang Zhong, Ximing Li, Dacheng Tao  
-![](https://img.shields.io/badge/CCF-B-red) _International Conference on Computational Linguistics (COLING 2022)_, during my internship in JDEA
+![](https://img.shields.io/badge/CCF-B-red) _International Conference on Computational Linguistics (COLING 2022)_, during my internship in JDEA  
 
 **Learning with Partial Multi-labeled Data by Leveraging Low-rank Constraint and Decomposition**  
 Ying Wang, Yuanyuan Guan, **Bing Wang** , Ximing Li*  
