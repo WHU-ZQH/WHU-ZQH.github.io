@@ -19,7 +19,7 @@ Ph.D. Candidate in College of Computer Science and Technology.
 - **Jilin University**, _2020 -- 2023_  
 Master in College of Computer Science and Technology.
 - **Jilin University**, _2016 -- 2020_  
-Double-Bachelor in College of Computer Science and Technology and School of Mechanical and Aerospace Engineering.
+Double-Bachelor, major in Mechanical Engineering, and minor in Computer Science.
 
 ### Experience
 
@@ -58,7 +58,7 @@ I am generally interested in natural language processing (NLP) and machine learn
 [04/2022] 'graduated' from JD explore academy.
 
 
-# Recent Preprints
+# Recent Unpublished Preprints
 <font size=3 color=gray>* denotes a corresponding author.</font>  
 ---
 
